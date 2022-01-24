@@ -8,5 +8,6 @@ https://api.yomisana.xyz/api/v1/nbt/
 
 ### AntiCheatHammer
 
-I am the organizer of Anti Cheat Hammer(ACH),ACH is Minecarft Anti Cheat Software, work like EAC or BE but only Check Startup plugin & verson and mod.
-Support for windows platform other platform not have support :( . It will soon support :) .
+I am the organizer of Anti Cheat Hammer(ACH),ACH is Minecarft Anti Cheat Software.
+Support for windows platform other platform not have support :(
+It will soon support :)
