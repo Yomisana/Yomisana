@@ -6,7 +6,7 @@
 
 ### Mjolnir
 
-I am the organizer of Mjolnir Team(Minecraft-Mjolnir),Mjolnir is Minecarft Anti Cheat Software.
+I am the organizer of Mjolnir Team(Minecraft-Mjolnir),Mjolnir is Minecarft Launcher Software.
 
 Support for windows platform other platform not have support :(
 
