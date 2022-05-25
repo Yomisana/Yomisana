@@ -2,7 +2,7 @@
 
 ![Yomisana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yomisana&show_icons=true&theme=radical)
 
-![Yomisana's GitHub Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yomisana&layout=compact&theme=radical&locale=en)
+![Yomisana's GitHub Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yomisana&layout=compact)
 
 ### Mjolnir
 
