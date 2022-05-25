@@ -1,7 +1,6 @@
 ### Hi there 👋 Like Code Something
 
-![Yomisana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yomisana&show_icons=true&theme=radical)
-
+![Yomisana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yomisana&show_icons=true&theme=Gradient)
 ![Yomisana's GitHub Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yomisana&layout=compact)
 
 ### Mjolnir
