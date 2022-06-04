@@ -12,5 +12,5 @@ Support for windows platform other platform not have support :(
 
 I will say it will coming soon support ;)
 
-### League Helper
+### Mjolnir League
 Auto Accept Match
