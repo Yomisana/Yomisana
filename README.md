@@ -5,7 +5,7 @@
 
 ### Mjolnir
 
-I am the organizer of Mjolnir Team(Minecraft-Mjolnir),Mjolnir is Minecarft Launcher Software.
+I am the organizer of Mjolnir Team(Mjolnir-Studio),Mjolnir Launcher is Minecarft Launcher Software,Mjolnir League is lol Software.
 
 Support for windows platform other platform not have support :(
 
