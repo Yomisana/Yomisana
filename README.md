@@ -13,3 +13,5 @@ I will say it will coming soon support ;)
 
 ### Mjolnir League
 Auto Accept Match and some cool function
+
+340
