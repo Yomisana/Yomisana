@@ -64,6 +64,7 @@
 
 [![Spotify](https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=)](https://open.spotify.com/user/21ghtpyvzfpcub4i6rmvhk7da?si=3cdc2773de914fb6)
 ![VMware](https://img.shields.io/static/v1?style=for-the-badge&message=VMware&color=607078&logo=VMware&logoColor=FFFFFF&label=)
+![Proxmox](https://img.shields.io/static/v1?style=for-the-badge&message=Proxmox&color=E57000&logo=Proxmox&logoColor=FFFFFF&label=)
 
 <!-- ### Mjolnir League -->
 <!-- Auto Accept Match and some cool function -->
@@ -87,7 +88,6 @@ I wanna try :
 ![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label=)
 ![Unreal Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=FFFFFF&label=)
 ![Gitea](https://img.shields.io/static/v1?style=for-the-badge&message=Gitea&color=609926&logo=Gitea&logoColor=FFFFFF&label=)
-![Proxmox](https://img.shields.io/static/v1?style=for-the-badge&message=Proxmox&color=E57000&logo=Proxmox&logoColor=FFFFFF&label=)
 
 ![Yomisana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yomisana&show_icons=true&theme=react)  
 <!-- ![Yomisana's GitHub Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yomisana&layout=compact&theme=react)   -->
