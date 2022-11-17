@@ -47,7 +47,8 @@ My Social
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
-![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=474747&logo=React&logoColor=61DAFB&label=) and Java *I not have found icon ;)
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=474747&logo=React&logoColor=61DAFB&label=) 
+![JAVA](https://img.shields.io/static/v1?style=for-the-badge&message=openjdk&color=474747&logo=openjdk&logoColor=FFFFFF&label=) 
 
 <hr>
 
