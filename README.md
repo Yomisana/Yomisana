@@ -110,6 +110,7 @@ Mjolnir League is lol app.
 <!-- ### Games
 ![Valorant](https://img.shields.io/static/v1?style=for-the-badge&message=Valorant&color=FA4454&logo=Valorant&logoColor=FFFFFF&label=) -->
 
-![Yomisana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yomisana&show_icons=true&theme=react)  
+<!-- ![Yomisana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yomisana&show_icons=true&theme=react)   -->
+![Yomisana's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yomisana&show_icons=true&theme=react)  
 <!-- ![Yomisana's GitHub Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yomisana&layout=compact&theme=react)   -->
 ![Yomisana's GitHub PROFILE VIEWS](https://komarev.com/ghpvc/?username=Yomisana&color=grey&style=for-the-badge&label=PROFILE+VIEWS)
