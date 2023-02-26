@@ -1,9 +1,9 @@
 # Hi there 👋 Like Code Something
 My Social
 
-[![Spotify](https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=)](https://open.spotify.com/user/21ghtpyvzfpcub4i6rmvhk7da?si=3cdc2773de914fb6)
+[![Spotify](https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=)](https://open.spotify.com/user/315hq2dmxup4v3tyu7gk5nvliwde?si=8fe498252f554736)
 [![PayPal](https://img.shields.io/static/v1?style=for-the-badge&message=PayPal&color=00457C&logo=PayPal&logoColor=FFFFFF&label=)](https://paypal.me/yomisana3236)
-[![IG](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&logo=Instagram&label=)](https://www.instagram.com/liu.anwu/)
+[![IG](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&logo=Instagram&label=)](https://www.instagram.com/liu.yomisana/)
 <hr>
 
 ## My website and service
