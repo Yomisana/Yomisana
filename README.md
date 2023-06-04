@@ -12,21 +12,9 @@
 |   ![Yomisana's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yomisana&show_icons=true&theme=react)   |   ![Yomisana's GitHub Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yomisana&layout=compact&theme=react)   |
 | --- | --- |
 
-<!-- <div>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yomisana&show_icons=true&theme=react" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yomisana&layout=compact&theme=react" width="450" />
-</div> -->
-<!-- ![Yomisana's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yomisana&show_icons=true&theme=react)  
-![Yomisana's GitHub Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yomisana&layout=compact&theme=react)   -->
-
 ## My website and Online Service
 | [Offical Website](https://www.yomisana.xyz) | [My Blog](https://dev.yomisana.xyz)| [Online Service](https://tool.yomisana.xyz) | [Uptimerobot Server Status](https://stats.uptimerobot.com/J7oN1iBP97) |
 | --- | --- | --- | --- |
-<!-- | [Offical Website](https://www.yomisana.xyz)
-| [My Blog](https://dev.yomisana.xyz)
-| [Online Service](https://tool.yomisana.xyz)
-| [Uptimerobot Server Status](https://stats.uptimerobot.com/J7oN1iBP97)
-| -->
 <hr>
 
 ## Self-Project
@@ -114,8 +102,6 @@ Mjolnir-League
 
 ### Games
 ![Valorant](https://img.shields.io/static/v1?style=for-the-badge&message=Valorant&color=000000&logo=Valorant&logoColor=FA4454&label=)
-
-<hr>
 
 ## Contact me
 [![IG](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=000000&logo=Instagram&logoColor=d84f69&label=)](https://www.instagram.com/liu.yomisana/)
