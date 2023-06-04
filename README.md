@@ -24,8 +24,7 @@ Mjolnir-League
 
 ## When coding or setup server listen music list
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/56i4jGjGaUTWolTPrS50xt?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=315hq2dmxup4v3tyu7gk5nvliwde&width=900)
 
 ## My social media
 [![Spotify](https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=)](https://open.spotify.com/user/315hq2dmxup4v3tyu7gk5nvliwde?si=8fe498252f554736)
