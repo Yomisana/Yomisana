@@ -8,10 +8,14 @@
     I'm a Network / Full Stack / MIS Engineer
     Have experience about use a lot of operating system,framework,in leading a team, innovative projects.
 
-<div>
+
+|   ![Yomisana's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yomisana&show_icons=true&theme=react)   |   ![Yomisana's GitHub Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yomisana&layout=compact&theme=react)   |
+| --- | --- |
+
+<!-- <div>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yomisana&show_icons=true&theme=react" width="450" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yomisana&layout=compact&theme=react" width="450" />
-</div>
+</div> -->
 <!-- ![Yomisana's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yomisana&show_icons=true&theme=react)  
 ![Yomisana's GitHub Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yomisana&layout=compact&theme=react)   -->
 
