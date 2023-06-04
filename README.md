@@ -15,18 +15,17 @@
 ## My website and Online Service
 | [Offical Website](https://www.yomisana.xyz) | [My Blog](https://dev.yomisana.xyz)| [Online Service](https://tool.yomisana.xyz) | [Uptimerobot Server Status](https://stats.uptimerobot.com/J7oN1iBP97) |
 | --- | --- | --- | --- |
-<hr>
 
 ## Self-Project
 better-stable-diffusion-script  
 better-stable-diffusion-terminal  
 Mjolnir-LeagueCleaner  
 Mjolnir-League
-<hr>
 
 ## When coding or setup server listen music list
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/56i4jGjGaUTWolTPrS50xt?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<hr>
+
 
 ## My social media
 [![Spotify](https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=)](https://open.spotify.com/user/315hq2dmxup4v3tyu7gk5nvliwde?si=8fe498252f554736)
@@ -103,5 +102,5 @@ Mjolnir-League
 ### Games
 ![Valorant](https://img.shields.io/static/v1?style=for-the-badge&message=Valorant&color=000000&logo=Valorant&logoColor=FA4454&label=)
 
-## Contact me
+### Contact me
 [![IG](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=000000&logo=Instagram&logoColor=d84f69&label=)](https://www.instagram.com/liu.yomisana/)
