@@ -8,7 +8,12 @@
     I'm a Network / Full Stack / MIS Engineer
     Have experience about use a lot of operating system,framework,in leading a team, innovative projects.
 
-![Yomisana's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yomisana&show_icons=true&theme=react)  
+<div>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yomisana&show_icons=true&theme=react" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yomisana&layout=compact&theme=react" width="450" />
+</div>
+<!-- ![Yomisana's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yomisana&show_icons=true&theme=react)  
+![Yomisana's GitHub Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yomisana&layout=compact&theme=react)   -->
 
 ## My website and Online Service
 | [Offical Website](https://www.yomisana.xyz)
@@ -101,14 +106,10 @@ Mjolnir-League
 
 <hr>
 
-<!-- I will say it will coming soon support ;) -->
+### Games
+![Valorant](https://img.shields.io/static/v1?style=for-the-badge&message=Valorant&color=000000&logo=Valorant&logoColor=FA4454&label=)
 
-<!-- ### Games
-![Valorant](https://img.shields.io/static/v1?style=for-the-badge&message=Valorant&color=FA4454&logo=Valorant&logoColor=FFFFFF&label=) -->
-
-<!-- ![Yomisana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yomisana&show_icons=true&theme=react)   -->
-
-<!-- ![Yomisana's GitHub Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yomisana&layout=compact&theme=react)   -->
+<hr>
 
 ## Contact me
 [![IG](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=000000&logo=Instagram&logoColor=d84f69&label=)](https://www.instagram.com/liu.yomisana/)
