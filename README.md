@@ -36,8 +36,8 @@ Mjolnir-League
 ### Operating Systems
 ![macOS](https://img.shields.io/static/v1?style=for-the-badge&color=000000&logo=Apple&logoColor=FFFFFF&message=macOS&label=)
 ![Windows](https://img.shields.io/static/v1?style=for-the-badge&color=000000&logo=Windows&logoColor=0078D6&message=Windows&label=)
-![linux](https://img.shields.io/static/v1?style=for-the-badge&color=000000&logo=Linux&logoColor=FFFFFF&message=Windows&label=)
-![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&color=000000&logo=Ubuntu&logoColor=e24d0e&message=Windows&label=)
+![linux](https://img.shields.io/static/v1?style=for-the-badge&color=000000&logo=Linux&logoColor=FFFFFF&message=Linux&label=)
+![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&color=000000&logo=Ubuntu&logoColor=e24d0e&message=Ubuntu&label=)
 ![Fedora](https://img.shields.io/static/v1?style=for-the-badge&message=Fedora&color=000000&logo=Fedora&logoColor=51A2DA&label=)
 ![Kali Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Kali+Linux&color=000000&logo=Kali+Linux&logoColor=557C94&label=)
 ![FreeNAS](https://img.shields.io/static/v1?style=for-the-badge&message=FreeNAS&color=000000&logo=FreeNAS&logoColor=FFFFFF&label=)
