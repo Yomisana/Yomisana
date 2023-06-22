@@ -4,7 +4,7 @@
 
 <!-- [中文 README.md](./README.tw.md)  -->
 
-    I'm Yomisana
+    I'm Yomisana, Now I am a Student.
     I'm a Network / Full Stack / MIS Engineer
     Have experience about use a lot of operating system,framework,in leading a team, innovative projects.
 
