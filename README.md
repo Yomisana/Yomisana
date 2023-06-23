@@ -2,8 +2,6 @@
 ![Yomisana's GitHub PROFILE VIEWS](https://komarev.com/ghpvc/?username=Yomisana&color=grey&style=for-the-badge&label=PROFILE+VIEWS)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F3EIJG8)
 
-<!-- [中文 README.md](./README.tw.md)  -->
-
     I'm Yomisana, Now I am a Student.
     I'm a Network / Full Stack / MIS Engineer
     Have experience about use a lot of operating system,framework,in leading a team, innovative projects.
@@ -32,10 +30,11 @@ Mjolnir-League
 
 <hr>
 
-## Language & Tool & System:
+## Skill
 ### Operating Systems
 ![macOS](https://img.shields.io/static/v1?style=for-the-badge&color=000000&logo=Apple&logoColor=FFFFFF&message=macOS&label=)
 ![Windows](https://img.shields.io/static/v1?style=for-the-badge&color=000000&logo=Windows&logoColor=0078D6&message=Windows&label=)
+#### Linux
 ![linux](https://img.shields.io/static/v1?style=for-the-badge&color=000000&logo=Linux&logoColor=FFFFFF&message=Linux&label=)
 ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&color=000000&logo=Ubuntu&logoColor=e24d0e&message=Ubuntu&label=)
 ![Fedora](https://img.shields.io/static/v1?style=for-the-badge&message=Fedora&color=000000&logo=Fedora&logoColor=51A2DA&label=)
@@ -62,34 +61,46 @@ Mjolnir-League
 
 ### Program laungue
 ![C Sharp](https://img.shields.io/static/v1?style=for-the-badge&message=C+Sharp&color=000000&logo=C+Sharp&logoColor=239120&label=)
-![Electron](https://img.shields.io/static/v1?style=for-the-badge&message=Electron&color=000000&logo=Electron&logoColor=47848F&label=)
+![JAVA](https://img.shields.io/static/v1?style=for-the-badge&message=openjdk&color=000000&logo=openjdk&logoColor=FFFFFF&label=) 
+![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=000000&logo=PHP&logoColor=777BB4&label=)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=000000&logo=Node.js&logoColor=339933&label=)
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=000000&logo=HTML5&logoColor=E34F26&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=000000&logo=JavaScript&logoColor=F7DF1E&label=)
-![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=000000&logo=PHP&logoColor=777BB4&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=000000&logo=CSS3&logoColor=1572B6&label=)
-![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=000000&logo=React&logoColor=61DAFB&label=) 
-![JAVA](https://img.shields.io/static/v1?style=for-the-badge&message=openjdk&color=000000&logo=openjdk&logoColor=FFFFFF&label=) 
 
 ### Databases
 ![MariaDB](https://img.shields.io/static/v1?style=for-the-badge&message=MariaDB&color=000000&logo=MariaDB&logoColor=FFFFFF&label=)
 ![phpMyAdmin](https://img.shields.io/static/v1?style=for-the-badge&message=phpMyAdmin&color=000000&logo=phpMyAdmin&logoColor=FFFFFF&label=)
 ![Microsoft SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=000000&logo=Microsoft+SQL+Server&logoColor=CC2927&label=)
 
-### Tools
+### Library
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=000000&logo=React&logoColor=61DAFB&label=) 
 
-![VMware](https://img.shields.io/static/v1?style=for-the-badge&message=VMware&color=000000&logo=VMware&logoColor=607078&label=)
-![Proxmox](https://img.shields.io/static/v1?style=for-the-badge&message=Proxmox&color=000000&logo=Proxmox&logoColor=E57000&label=)
+### Framework
+![Electron](https://img.shields.io/static/v1?style=for-the-badge&message=Electron&color=000000&logo=Electron&logoColor=47848F&label=)
 
-### Used Before
+### Static Site Generator
+![Hexo](https://img.shields.io/static/v1?style=for-the-badge&message=Hexo&color=000000&logo=Hexo&logoColor=0E83CD&label=)
+![Hugo](https://img.shields.io/static/v1?style=for-the-badge&message=Hugo&color=000000&logo=hugo&logoColor=f23d81&label=)
+
+### CMS & Electronic Commerce
 ![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=000000&logo=WordPress&logoColor=21759B&label=)
 ![WooCommerce](https://img.shields.io/static/v1?style=for-the-badge&message=WooCommerce&color=000000&logo=WooCommerce&logoColor=96588A&label=)
+
+### VCS
 ![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=000000&logo=GitLab&logoColor=FC6D26&label=)
+
+### CI/CD
 ![Jenkins](https://img.shields.io/static/v1?style=for-the-badge&message=Jenkins&color=000000&logo=Jenkins&logoColor=D24939&label=)
-![Hexo](https://img.shields.io/static/v1?style=for-the-badge&message=Hexo&color=000000&logo=Hexo&logoColor=0E83CD&label=)
+
+### 123
 ![BookStack](https://img.shields.io/static/v1?style=for-the-badge&message=BookStack&color=000000&logo=BookStack&logoColor=0288D1&label=)
 ![Nextcloud](https://img.shields.io/static/v1?style=for-the-badge&message=Nextcloud&color=000000&logo=Nextcloud&logoColor=0082C9&label=)
 ![Grafana](https://img.shields.io/static/v1?style=for-the-badge&message=Grafana&color=000000&logo=Grafana&logoColor=F46800&label=)
+
+### virtualization platform
+![VMware](https://img.shields.io/static/v1?style=for-the-badge&message=VMware&color=000000&logo=VMware&logoColor=607078&label=)
+![Proxmox](https://img.shields.io/static/v1?style=for-the-badge&message=Proxmox&color=000000&logo=Proxmox&logoColor=E57000&label=)
 
 ### I wanna try : 
 ![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=000000&logo=Unity&logoColor=FFFFFF&label=)
