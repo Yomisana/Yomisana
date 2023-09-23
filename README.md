@@ -122,3 +122,4 @@
 
 ### Contact me
 [![IG](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=000000&logo=Instagram&logoColor=d84f69&label=)](https://www.instagram.com/liu.yomisana/)
+[![linkedin](https://img.shields.io/static/v1?style=for-the-badge&message=linkedin&color=000000&logo=linkedin&logoColor=0a65c1&label=)](https://www.linkedin.com/in/yomisana/)
