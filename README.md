@@ -2,21 +2,23 @@
 ![Yomisana's GitHub PROFILE VIEWS](https://komarev.com/ghpvc/?username=Yomisana&color=grey&style=for-the-badge&label=PROFILE+VIEWS)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F3EIJG8)
 
-    I'm Yomisana, Now I am a Student.
-    I'm a Network / Full Stack / MIS Engineer
-    Have experience about use a lot of operating system,framework,in leading a team, innovative projects.
+    I'm Yomisana, Now I am college student.
+    I'm a Network / DevOps / Full Stack  / MIS Engineer.  
+    I'm a Senior Project / Mjolnir Ｓtudio / Naculus project leader
+    -> Have experience about use a lot of operating system,framework,in leading a team, innovative projects.
+    --> Mjolnir Launcher / Mjolnir-LeagueCleaner / 
 
 
 |   ![Yomisana's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yomisana&show_icons=true&theme=react)   |   ![Yomisana's GitHub Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yomisana&layout=compact&theme=react)   |
 | --- | --- |
 
 ## My website and Online Service
-| [Offical Website](https://www.yomisana.xyz) | [My Blog](https://dev.yomisana.xyz)| [Online Service](https://tool.yomisana.xyz) | [Uptimerobot Server Status](https://stats.uptimerobot.com/J7oN1iBP97) |
+| [Offical Website](https://www.yomisana.xyz) | [My Blog - stop update](https://dev.yomisana.xyz)| [Online Service - stop public](https://tool.yomisana.xyz) | [sitemap - offline](https://domain.yomisana.xyz) |
 | --- | --- | --- | --- |
 
-## When coding or setup server listen music list
+<!-- ## When coding or setup server listen music list -->
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=315hq2dmxup4v3tyu7gk5nvliwde&width=900)
+<!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=315hq2dmxup4v3tyu7gk5nvliwde&width=900) -->
 
 ## My social media
 [![Spotify](https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=)](https://open.spotify.com/user/315hq2dmxup4v3tyu7gk5nvliwde?si=8fe498252f554736)
@@ -45,6 +47,7 @@
 
 ### Library
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=000000&logo=React&logoColor=61DAFB&label=) 
+![React Native](https://img.shields.io/static/v1?style=for-the-badge&message=React+Native&color=000000&logo=React&logoColor=61dafb&label=) 
 ![jquery](https://img.shields.io/static/v1?style=for-the-badge&message=jquery&color=000000&logo=jquery&logoColor=1064a5&label=) 
 
 ### Framework
@@ -61,10 +64,10 @@
 
 ### Code Editor
 ![VSCODE](https://img.shields.io/static/v1?style=for-the-badge&color=000000&logo=visualstudiocode&logoColor=23aaf2&message=visual+studio+code&label=)
-![Notepad++](https://img.shields.io/static/v1?style=for-the-badge&color=000000&logo=Notepad%2B%2B&logoColor=FFFFFF&message=Notepad%2B%2B&label=)
-![Atom](https://img.shields.io/static/v1?style=for-the-badge&message=Atom&color=000000&logo=Atom&logoColor=FFFFFF&label=)
 ![Nano](https://img.shields.io/static/v1?style=for-the-badge&message=Nano&color=000000&logo=Nano&logoColor=FFFFFF&label=)
-![NPM](https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=000000&logo=npm&logoColor=CB3837&label=)
+![Notepad++](https://img.shields.io/static/v1?style=for-the-badge&color=000000&logo=Notepad%2B%2B&logoColor=FFFFFF&message=Notepad%2B%2B&label=)
+<!-- ![Atom](https://img.shields.io/static/v1?style=for-the-badge&message=Atom&color=000000&logo=Atom&logoColor=FFFFFF&label=) -->
+<!-- ![NPM](https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=000000&logo=npm&logoColor=CB3837&label=) -->
 
 ### Databases
 ![MariaDB](https://img.shields.io/static/v1?style=for-the-badge&message=MariaDB&color=000000&logo=MariaDB&logoColor=FFFFFF&label=)
@@ -97,22 +100,25 @@
 ![Jenkins](https://img.shields.io/static/v1?style=for-the-badge&message=Jenkins&color=000000&logo=Jenkins&logoColor=D24939&label=)
 
 ### virtualization platform
-![VMware](https://img.shields.io/static/v1?style=for-the-badge&message=VMware&color=000000&logo=VMware&logoColor=607078&label=)
 ![Proxmox](https://img.shields.io/static/v1?style=for-the-badge&message=Proxmox&color=000000&logo=Proxmox&logoColor=E57000&label=)
+![VMware](https://img.shields.io/static/v1?style=for-the-badge&message=VMware&color=000000&logo=VMware&logoColor=607078&label=)
 
 ### Other Service things
 ![Grafana](https://img.shields.io/static/v1?style=for-the-badge&message=Grafana&color=000000&logo=Grafana&logoColor=F46800&label=)
 ![Docusaurus](https://img.shields.io/static/v1?style=for-the-badge&message=Docusaurus&color=000000&logo=Docusaurus&logoColor=0070F3&label=)
+![Grafana](https://img.shields.io/static/v1?style=for-the-badge&message=Grafana&color=000000&logo=Grafana&logoColor=F46800&label=)
 ![BookStack](https://img.shields.io/static/v1?style=for-the-badge&message=BookStack&color=000000&logo=BookStack&logoColor=0288D1&label=)
 ![Nextcloud](https://img.shields.io/static/v1?style=for-the-badge&message=Nextcloud&color=000000&logo=Nextcloud&logoColor=0082C9&label=)
+![Grafana](https://img.shields.io/static/v1?style=for-the-badge&message=Grafana&color=000000&logo=Grafana&logoColor=F46800&label=)
+![Docusaurus](https://img.shields.io/static/v1?style=for-the-badge&message=Docusaurus&color=000000&logo=Docusaurus&logoColor=0070F3&label=)
 
 ### CMS & Electronic Commerce
 ![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=000000&logo=WordPress&logoColor=21759B&label=)
 ![WooCommerce](https://img.shields.io/static/v1?style=for-the-badge&message=WooCommerce&color=000000&logo=WooCommerce&logoColor=96588A&label=)
 
 ### I wanna try : 
-![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=000000&logo=Unity&logoColor=FFFFFF&label=)
 ![Unreal Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=000000&logo=Unreal+Engine&logoColor=FFFFFF&label=)
+![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=000000&logo=Unity&logoColor=FFFFFF&label=)
 ![Gitea](https://img.shields.io/static/v1?style=for-the-badge&message=Gitea&color=000000&logo=Gitea&logoColor=609926&label=)
 
 <hr>
