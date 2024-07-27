@@ -4,9 +4,9 @@
 
     I'm Yomisana, Now I am college student.
     I'm a Network / DevOps / Full Stack  / MIS Engineer.  
-    I'm a Senior Project / Mjolnir Ｓtudio / Naculus project leader
+    I'm a Senior Project / Mjolnir Studio / Naculus project leader
     -> Have experience about use a lot of operating system,framework,in leading a team, innovative projects.
-    --> Mjolnir Launcher / Mjolnir-LeagueCleaner / 
+    --> Mjolnir Launcher / Mjolnir-LeagueCleaner / Drivelink(Capstone Project)
 
 
 |   ![Yomisana's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yomisana&show_icons=true&theme=react)   |   ![Yomisana's GitHub Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yomisana&layout=compact&theme=react)   |
@@ -111,10 +111,16 @@
 ![Nextcloud](https://img.shields.io/static/v1?style=for-the-badge&message=Nextcloud&color=000000&logo=Nextcloud&logoColor=0082C9&label=)
 ![Grafana](https://img.shields.io/static/v1?style=for-the-badge&message=Grafana&color=000000&logo=Grafana&logoColor=F46800&label=)
 ![Docusaurus](https://img.shields.io/static/v1?style=for-the-badge&message=Docusaurus&color=000000&logo=Docusaurus&logoColor=0070F3&label=)
+![PM2]([https://img.shields.io/static/v1?style=for-the-badge&message=Docusaurus&color=000000&logo=Docusaurus&logoColor=0070F3&label=](https://img.shields.io/static/v1?style=for-the-badge&message=PM2&color=000000&logo=pm2&logoColor=2B037A&label=))
 
 ### CMS & Electronic Commerce
 ![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=000000&logo=WordPress&logoColor=21759B&label=)
 ![WooCommerce](https://img.shields.io/static/v1?style=for-the-badge&message=WooCommerce&color=000000&logo=WooCommerce&logoColor=96588A&label=)
+
+### Else
+```
+plopjs/plop, .env
+```
 
 ### I wanna try : 
 ![Unreal Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=000000&logo=Unreal+Engine&logoColor=FFFFFF&label=)
