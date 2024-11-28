@@ -27,7 +27,7 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 15
           plugin_languages_details: lines
           plugin_isocalendar: true
-          #plugin_reactions: true
+          #plugin_reactions: true 
           config_display: large
           output_action: gist
           committer_gist: dc024000f7b00f916f423025e93b4890
