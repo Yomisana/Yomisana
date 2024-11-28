@@ -13,6 +13,9 @@
 - Mjolnir Launcher
 - Mjolnir LeagueCleaner
 > I do a lot of Solutions to provide customers with the best current solutions and follow-up solutions.
+<picture>
+  <img src="https://gist.githubusercontent.com/Yomisana/dc024000f7b00f916f423025e93b4890/raw/github-metrics.svg" alt="Metrics" width="100%">
+</picture>
 
 |   ![Yomisana's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yomisana&show_icons=true&theme=react)   |   ![Yomisana's GitHub Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yomisana&layout=compact&theme=react)   |
 | --- | --- |
@@ -23,3 +26,5 @@
 
 ## My social media
 [![Spotify](https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=)](https://open.spotify.com/user/315hq2dmxup4v3tyu7gk5nvliwde?si=8fe498252f554736)
+
+
