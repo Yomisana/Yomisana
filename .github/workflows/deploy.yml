@@ -1,0 +1,33 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
+    steps:
+      - uses: yomisana/metrics@master
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Asia/Taipei
+          base_indepth: true
+          repositories_forks: true
+          plugin_languages: true
+          plugin_languages_indepth: true
+          plugin_languages_other: false
+          plugin_languages_analysis_timeout: 60
+          plugin_languages_analysis_timeout_repositories: 15
+          plugin_languages_details: lines
+          plugin_isocalendar: true
+          #plugin_reactions: true
+          config_display: large
+          output_action: gist
+          committer_gist: dc024000f7b00f916f423025e93b4890
