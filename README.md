@@ -5,7 +5,7 @@
 - I'm Yomisana
 > I work on a wide range of projects that can span:
 - Network / DevOps / SRE / Front Stack / Cloud Technical Engineer / System Engineer / MIS Engineer.
-- I'm a [Naculus](https://www.naculus.com) CEO
+- I'm a [Naculus](https://www.naculus.com) Founder
 > Have experience about use a lot of operating system,framework,in leading a team, innovative projects, also AI Application Engineer(Stable Diffusion/use AI make workflow faster).
 - Drivelink(1st Place Project, NCUT IM Dept, 2024)
 - Naculus Official website (Social)
