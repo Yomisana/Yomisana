@@ -12,7 +12,7 @@ jobs:
       - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          gist_id: dc024000f7b00f916f423025e93b4890
+          committer_gist: dc024000f7b00f916f423025e93b4890
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Taipei
