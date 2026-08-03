@@ -1,5 +1,4 @@
 # Hi there 👋 yomisana here
-![Yomisana's GitHub PROFILE VIEWS](https://komarev.com/ghpvc/?username=Yomisana&color=grey&style=for-the-badge&label=PROFILE+VIEWS)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F3EIJG8)
 
 - I'm Yomisana
