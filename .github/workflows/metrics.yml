@@ -1,0 +1,25 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 6 * * *"}]
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          gist_id: dc024000f7b00f916f423025e93b4890
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Taipei
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 6
+          plugin_lines: yes
+          plugin_stars: yes
+          plugin_followup: yes
