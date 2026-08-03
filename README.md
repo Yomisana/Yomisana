@@ -26,7 +26,7 @@
 TypeScript · Rust · React 19 · Tauri 2 · Stencil · Vitest · Biome · Tailwind v4 · Web3 (EVM/Solana/XRPL) · CI/CD
 
 <picture>
-  <img src="https://gist.githubusercontent.com/Yomisana/dc024000f7b00f916f423025e93b4890/raw/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="./github-metrics.svg" alt="Metrics" width="100%">
 </picture>
 
 |   ![Yomisana's GitHub stats](https://github-readme-stats-fork.vercel.app/api?username=Yomisana&show_icons=true&theme=react)   |   ![Yomisana's GitHub Top languages](https://github-readme-stats-fork.vercel.app/api/top-langs/?username=Yomisana&layout=compact&theme=react)   |
