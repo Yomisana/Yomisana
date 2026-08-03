@@ -14,6 +14,17 @@
 - Mjolnir Launcher
 - Mjolnir LeagueCleaner
 > I do a lot of Solutions to provide customers with the best current solutions and follow-up solutions.
+
+## What I'm building
+- [EasyTube](https://github.com/Yomisana/EasyTube) — desktop video downloader (Tauri + React + Rust MCP)
+- [connect-lib](https://github.com/naculus-official/connect-lib) — cross-chain Web3 SDK (14 npm packages)
+- [connect-appkit](https://github.com/naculus-official/connect-appkit) — Web3 UI component library (24 Stencil WC)
+- [SenderPay](https://github.com/Yomisana/SenderPay) — cross-chain payment protocol (WIP)
+- [Naculus](https://www.naculus.com) — Web3 infrastructure studio
+
+## Tech
+TypeScript · Rust · React 19 · Tauri 2 · Stencil · Vitest · Biome · Tailwind v4 · Web3 (EVM/Solana/XRPL) · CI/CD
+
 <picture>
   <img src="https://gist.githubusercontent.com/Yomisana/dc024000f7b00f916f423025e93b4890/raw/github-metrics.svg" alt="Metrics" width="100%">
 </picture>
