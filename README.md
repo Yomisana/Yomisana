@@ -18,7 +18,7 @@
 - [EasyTube](https://github.com/Yomisana/EasyTube) — desktop video downloader (Tauri + React + Rust MCP)
 - [connect-lib](https://github.com/naculus-official/connect-lib) — cross-chain Web3 SDK (14 npm packages)
 - [connect-appkit](https://github.com/naculus-official/connect-appkit) — Web3 UI component library (24 Stencil WC)
-- [SenderPay](https://github.com/Yomisana/SenderPay) — cross-chain payment protocol (WIP)
+- [SenderPay](https://sender.naculus.com) — cross-chain payment protocol (WIP)
 - [Naculus](https://www.naculus.com) — Web3 infrastructure studio
 
 ## Tech
